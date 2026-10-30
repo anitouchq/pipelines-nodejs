@@ -1,12 +1,4 @@
-# pipelines-nodejs
-
-<img width="1383" height="433" alt="image" src="https://github.com/user-attachments/assets/dd202f10-4118-4ddb-8ed3-ed26613f2a6d" />
 # 📦 pipelines-nodejs
-
-Учебный проект: **CI-пайплайн на GitHub Actions** для Node.js-приложения.
-
----
-
 ## 📖 О проекте
 
 Простое Node.js-приложение (`add`, `main`), для которого настроен CI-пайплайн.
@@ -106,7 +98,6 @@ npm test
 - **Jest** — тесты
 - **ESLint** — линтинг
 - **Docker** — контейнеризация
-- **GitHub Actions** — CI
 
 ---
 
