@@ -47,7 +47,8 @@
 
 ### Скачивание Docker-образа
 
-<img width="624" height="204" alt="image" src="https://github.com/user-attachments/assets/2eae5271-6d31-4d95-92da-b4678e31a4b3" />
+<img width="2170" height="725" alt="photo_5413821073230340026_w" src="https://github.com/user-attachments/assets/8e7c1ab1-b273-44ff-b19d-ea0f0a80e343" />
+
 
 
 ### Сборка образа
